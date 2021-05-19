@@ -1,3 +1,5 @@
+Download and Install the Synapse.apk file to run the application on your Android device.
+
 Download the files and place in a folder named 'AppTest' for correct package referrencing.
 
 Extract app/build.zip file in the same folder under the same name before launching the project
