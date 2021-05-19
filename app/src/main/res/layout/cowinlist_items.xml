@@ -33,6 +33,9 @@
 
     </FrameLayout>
 
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
     <TextView
         android:id="@+id/centrename"
         android:layout_width="wrap_content"
@@ -43,6 +46,20 @@
         android:layout_marginTop="5dp"
         android:layout_marginLeft="20dp"
         android:textSize="17dp"/>
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:layout_marginTop="5dp"
+            android:hint="Rs. ___"
+            android:alpha="0.6"
+            android:layout_marginRight="35dp"
+            android:textColor="#878787"
+            android:textSize="13dp"
+            android:textStyle="bold"/>
+    </FrameLayout>
 
     <TextView
         android:id="@+id/avv"
