@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tmp"
+    android:alpha="1"
+    android:fitsSystemWindows="true"
+    tools:context=".cowinActivity">
+
+    <TextView
+        android:id="@+id/head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="70dp"
+        android:alpha="1"
+        android:fontFamily="@font/roboto_medium"
+        android:text="Co-Win"
+        android:textColor="@color/white"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/head2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:textColor="@color/white"
+        android:layout_marginTop="130dp"
+        android:alpha="0.6"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:text="By Ministry of Health\n&amp; Family Welfare"/>
+    <TextView
+        android:id="@+id/head3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:textColor="@color/white"
+        android:layout_marginTop="180dp"
+        android:alpha="0.8"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:text="Winning over COVID-19"/>
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/app_bar_height"
+        android:alpha="0"
+        android:fitsSystemWindows="true"
+        android:theme="@style/Theme.AppTest.AppBarOverlay">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:toolbarId="@+id/toolbar">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/Theme.AppTest.PopupOverlay" />
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_scrolling" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4f9e68"
+        android:layout_margin="@dimen/fab_margin"
+        app:layout_anchor="@id/app_bar"
+        app:layout_anchorGravity="bottom|end"
+        app:srcCompat="@android:drawable/ic_menu_info_details" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

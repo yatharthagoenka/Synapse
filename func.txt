@@ -1,0 +1,12 @@
+VOICE API
+1. Speech to Text
+2. Current Time 
+3. Draft Mails 
+
+CodeForces
+1. User Information
+2. Contest List
+
+CoWin
+1. Vaccination Information (by Pincode and Date)
+2. Availability for the next 7 days, starting from the input date

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="" />
+        <item
+            android:id="@+id/nav_dash"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="DashBoard" />
+        <item android:title="" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/voice"
+            android:title="@string/menu_home" />
+        <item android:title="" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_add_circle_24"
+            android:title="@string/menu_gallery" />
+        <item android:title="" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/cf"
+            android:title="@string/menu_slideshow" />
+
+    </group>
+</menu>

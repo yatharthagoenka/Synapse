@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp">
+        <TextView
+            android:id="@+id/vacc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:hint="Vaccine"
+            android:alpha="0.6"
+            android:layout_marginRight="35dp"
+            android:textColor="#878787"
+            android:textSize="13dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/centreid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Center ID"
+            android:alpha="1"
+            android:layout_marginLeft="20dp"
+            android:textColor="#878787"
+            android:textSize="13dp"
+            android:textStyle="bold"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/centrename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Centre Name"
+        android:textColor="@color/black"
+        android:gravity="left"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"/>
+
+    <TextView
+        android:id="@+id/avv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Availability"
+        android:textColor="#878787"
+        android:gravity="left"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="14dp"/>
+
+</LinearLayout>

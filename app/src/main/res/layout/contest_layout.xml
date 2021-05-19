@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="180dp"
+            android:layout_height="3dp"
+            android:layout_marginStart="39dp"
+            android:layout_marginTop="8dp"
+            android:background="#f28383"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/labelup" />
+
+        <TextView
+            android:id="@+id/labelup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="48dp"
+            android:text="Upcoming Contests"
+            android:textSize="23dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/cfb2"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_margin="@dimen/fab_margin"
+            android:layout_marginStart="16dp"
+            android:clickable="true"
+            android:src="@android:drawable/ic_search_category_default"
+            app:backgroundTint="#a64c4b"
+            app:fabCustomSize="45dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.755"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.045" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="26dp"
+            android:alpha="0"
+            android:text="TextView"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view" />
+
+        <ListView
+            android:id="@+id/myList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:cacheColorHint="@android:color/transparent"
+            android:clickable="false"
+            android:dividerHeight="0.8dp"
+            android:divider="@drawable/divider"
+            android:layout_marginTop="116dp"
+            tools:listitem="@layout/contestlist_items"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" >
+
+        </ListView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>

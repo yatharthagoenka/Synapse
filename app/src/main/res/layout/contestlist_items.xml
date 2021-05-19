@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:layout_marginLeft="18dp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp">
+        <TextView
+            android:id="@+id/stime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:hint="Time"
+            android:alpha="0.6"
+            android:layout_marginRight="35dp"
+            android:textColor="#878787"
+            android:textSize="13dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/cid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Contest ID"
+            android:alpha="1"
+            android:layout_marginLeft="20dp"
+            android:textColor="#878787"
+            android:textSize="13dp"
+            android:textStyle="bold"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/cname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contest Name"
+        android:textColor="@color/black"
+        android:gravity="left"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"/>
+
+
+
+</LinearLayout>
+
+
+    <!--    <RelativeLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="16dp">-->
+
+    <!--        <LinearLayout-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_marginVertical="10dp"-->
+    <!--            android:layout_marginLeft="10dp"-->
+    <!--            android:orientation="horizontal">-->
+
+
+
+    <!--            <LinearLayout-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:layout_marginStart="20dp"-->
+    <!--                android:orientation="vertical">-->
+
+    <!--                <TextView-->
+    <!--                    android:id="@+id/coname"-->
+    <!--                    android:layout_width="wrap_content"-->
+    <!--                    android:layout_height="wrap_content"-->
+    <!--                    android:text="Contest Name"-->
+    <!--                    android:textColor="@color/black"-->
+    <!--                    android:textSize="21sp"-->
+    <!--                    android:textStyle="bold"/>-->
+
+    <!--                <TextView-->
+    <!--                    android:id="@+id/coid"-->
+    <!--                    android:layout_width="wrap_content"-->
+    <!--                    android:layout_height="wrap_content"-->
+    <!--                    android:layout_marginTop="5dp"-->
+    <!--                    android:hint="Fetching"/>-->
+
+    <!--            </LinearLayout>-->
+
+
+    <!--        </LinearLayout>-->
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/time"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:padding="15dp"-->
+    <!--            android:layout_marginTop="10dp"-->
+    <!--            android:layout_alignParentRight="true"-->
+    <!--            android:text="to start"/>-->
+
+
+
+    <!--    </RelativeLayout>-->
