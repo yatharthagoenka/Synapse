@@ -1,0 +1,187 @@
+com/example/apptest/ui/slideshow/SlideshowFragment.java
+ com.example.AppTest.ui.slideshow.SlideshowFragment
+ com.example.AppTest.ui.slideshow.SlideshowFragment$1
+com/example/AppTest/databinding/ActivityNavBinding.java
+ com.example.AppTest.databinding.ActivityNavBinding
+com/example/AppTest/databinding/FragmentCowinBinding.java
+ com.example.AppTest.databinding.FragmentCowinBinding
+com/example/AppTest/databinding/FragmentHomeBinding.java
+ com.example.AppTest.databinding.FragmentHomeBinding
+com/example/AppTest/databinding/FragmentCf2Binding.java
+ com.example.AppTest.databinding.FragmentCf2Binding
+com/example/AppTest/listeners/NotesListener.java
+ com.example.AppTest.listeners.NotesListener
+com/example/AppTest/databinding/NoteDelBinding.java
+ com.example.AppTest.databinding.NoteDelBinding
+com/example/AppTest/main/PageViewModel.java
+ com.example.AppTest.ui.main.PageViewModel
+ com.example.AppTest.ui.main.PageViewModel$1
+com/example/AppTest/databinding/NotesBsheetBinding.java
+ com.example.AppTest.databinding.NotesBsheetBinding
+com/example/AppTest/databinding/ActivityCreateNoteBinding.java
+ com.example.AppTest.databinding.ActivityCreateNoteBinding
+com/example/AppTest/SplashActivity.java
+ com.example.AppTest.SplashActivity
+ com.example.AppTest.SplashActivity$1
+ com.example.AppTest.SplashActivity$2
+ com.example.AppTest.SplashActivity$3
+ com.example.AppTest.SplashActivity$4
+ com.example.AppTest.SplashActivity$5
+com/example/AppTest/entities/Note.java
+ com.example.AppTest.entities.Note
+com/example/AppTest/databinding/ActivityCf2Binding.java
+ com.example.AppTest.databinding.ActivityCf2Binding
+com/example/AppTest/databinding/ContentMainBinding.java
+ com.example.AppTest.databinding.ContentMainBinding
+com/example/AppTest/databinding/ProblemsetLayoutBinding.java
+ com.example.AppTest.databinding.ProblemsetLayoutBinding
+com/example/AppTest/cfContest.java
+ com.example.AppTest.cfContest
+ com.example.AppTest.cfContest$1
+ com.example.AppTest.cfContest$Downloadlist
+com/example/AppTest/databinding/AppBarMainBinding.java
+ com.example.AppTest.databinding.AppBarMainBinding
+com/example/AppTest/databinding/UserLayoutBinding.java
+ com.example.AppTest.databinding.UserLayoutBinding
+com/example/AppTest/databinding/CfDialogBinding.java
+ com.example.AppTest.databinding.CfDialogBinding
+com/example/apptest/ui/gallery/GalleryFragment.java
+ com.example.AppTest.ui.gallery.GalleryFragment
+ com.example.AppTest.ui.gallery.GalleryFragment$1
+com/example/AppTest/databinding/NoteContainerBinding.java
+ com.example.AppTest.databinding.NoteContainerBinding
+com/example/AppTest/cfActivity.java
+ com.example.AppTest.cfActivity
+ com.example.AppTest.cfActivity$1
+ com.example.AppTest.cfActivity$2
+com/example/AppTest/cfProb.java
+ com.example.AppTest.cfProb
+com/example/AppTest/databinding/BsheetLayoutBinding.java
+ com.example.AppTest.databinding.BsheetLayoutBinding
+com/example/AppTest/CowinDialog.java
+ com.example.AppTest.CowinDialog
+ com.example.AppTest.CowinDialog$1
+ com.example.AppTest.CowinDialog$DialogListener
+com/example/AppTest/MainActivity.java
+ com.example.AppTest.MainActivity
+ com.example.AppTest.MainActivity$1
+com/example/AppTest/cowinActivity.java
+ com.example.AppTest.cowinActivity
+ com.example.AppTest.cowinActivity$1
+ com.example.AppTest.cowinActivity$2
+ com.example.AppTest.cowinActivity$Downloadlist
+com/example/AppTest/databinding/NavCowinBinding.java
+ com.example.AppTest.databinding.NavCowinBinding
+com/example/AppTest/databinding/NavNotesBinding.java
+ com.example.AppTest.databinding.NavNotesBinding
+com/example/apptest/ui/home/HomeFragment.java
+ com.example.AppTest.ui.home.HomeFragment
+ com.example.AppTest.ui.home.HomeFragment$1
+com/example/AppTest/dao/NoteDao.java
+ com.example.AppTest.dao.NoteDao
+com/example/AppTest/activities/createNote.java
+ com.example.AppTest.activities.createNote
+ com.example.AppTest.activities.createNote$1
+ com.example.AppTest.activities.createNote$10
+ com.example.AppTest.activities.createNote$11
+ com.example.AppTest.activities.createNote$11$1DeleteNoteTask
+ com.example.AppTest.activities.createNote$12
+ com.example.AppTest.activities.createNote$1SaveNoteTask
+ com.example.AppTest.activities.createNote$2
+ com.example.AppTest.activities.createNote$3
+ com.example.AppTest.activities.createNote$4
+ com.example.AppTest.activities.createNote$5
+ com.example.AppTest.activities.createNote$6
+ com.example.AppTest.activities.createNote$7
+ com.example.AppTest.activities.createNote$8
+ com.example.AppTest.activities.createNote$9
+com/example/AppTest/database/NotesDatabase.java
+ com.example.AppTest.database.NotesDatabase
+com/example/AppTest/databinding/NavCfBinding.java
+ com.example.AppTest.databinding.NavCfBinding
+com/example/AppTest/bsheet.java
+ com.example.AppTest.bsheet
+com/example/AppTest/dashboard.java
+ com.example.AppTest.dashboard
+ com.example.AppTest.dashboard$1
+ com.example.AppTest.dashboard$2
+ com.example.AppTest.dashboard$3
+ com.example.AppTest.dashboard$4
+ com.example.AppTest.dashboard$5
+ com.example.AppTest.dashboard$6
+ com.example.AppTest.dashboard$7
+ com.example.AppTest.dashboard$8
+com/example/AppTest/databinding/FragmentGalleryBinding.java
+ com.example.AppTest.databinding.FragmentGalleryBinding
+com/example/AppTest/adapters/NotesAdapter.java
+ com.example.AppTest.adapters.NotesAdapter
+ com.example.AppTest.adapters.NotesAdapter$1
+ com.example.AppTest.adapters.NotesAdapter$2
+ com.example.AppTest.adapters.NotesAdapter$2$1
+ com.example.AppTest.adapters.NotesAdapter$NoteViewHolder
+com/example/AppTest/cfUser.java
+ com.example.AppTest.cfUser
+ com.example.AppTest.cfUser$1
+ com.example.AppTest.cfUser$Download
+ com.example.AppTest.cfUser$ImgDownload
+com/example/AppTest/databinding/ActivityCowinBinding.java
+ com.example.AppTest.databinding.ActivityCowinBinding
+com/example/AppTest/databinding/NavMainBinding.java
+ com.example.AppTest.databinding.NavMainBinding
+com/example/AppTest/activities/notesMain.java
+ com.example.AppTest.activities.notesMain
+ com.example.AppTest.activities.notesMain$1
+ com.example.AppTest.activities.notesMain$1GetNotesTask
+ com.example.AppTest.activities.notesMain$2
+ com.example.AppTest.activities.notesMain$3
+com/example/AppTest/CFDialog.java
+ com.example.AppTest.CFDialog
+ com.example.AppTest.CFDialog$1
+ com.example.AppTest.CFDialog$2
+com/example/apptest/ui/slideshow/SlideshowViewModel.java
+ com.example.AppTest.ui.slideshow.SlideshowViewModel
+com/example/apptest/ui/home/HomeViewModel.java
+ com.example.AppTest.ui.home.HomeViewModel
+com/example/apptest/ui/gallery/GalleryViewModel.java
+ com.example.AppTest.ui.gallery.GalleryViewModel
+com/example/AppTest/databinding/FragmentBsheetBinding.java
+ com.example.AppTest.databinding.FragmentBsheetBinding
+com/example/AppTest/databinding/ContestLayoutBinding.java
+ com.example.AppTest.databinding.ContestLayoutBinding
+com/example/AppTest/databinding/ContestlistItemsBinding.java
+ com.example.AppTest.databinding.ContestlistItemsBinding
+com/example/AppTest/databinding/ActivitySplashBinding.java
+ com.example.AppTest.databinding.ActivitySplashBinding
+com/example/AppTest/BuildConfig.java
+ com.example.AppTest.BuildConfig
+com/example/AppTest/main/PlaceholderFragment.java
+ com.example.AppTest.ui.main.PlaceholderFragment
+ com.example.AppTest.ui.main.PlaceholderFragment$1
+com/example/AppTest/main/SectionsPagerAdapter.java
+ com.example.AppTest.ui.main.SectionsPagerAdapter
+com/example/AppTest/databinding/CowinlistItemsBinding.java
+ com.example.AppTest.databinding.CowinlistItemsBinding
+com/example/AppTest/databinding/MailDialogBinding.java
+ com.example.AppTest.databinding.MailDialogBinding
+com/example/AppTest/MailDialog.java
+ com.example.AppTest.MailDialog
+ com.example.AppTest.MailDialog$1
+ com.example.AppTest.MailDialog$2
+ com.example.AppTest.MailDialog$DialogShare
+com/example/AppTest/databinding/ActivityMainBinding.java
+ com.example.AppTest.databinding.ActivityMainBinding
+com/example/AppTest/databinding/ActivityNotesMainBinding.java
+ com.example.AppTest.databinding.ActivityNotesMainBinding
+com/example/AppTest/databinding/ActivityDashboardBinding.java
+ com.example.AppTest.databinding.ActivityDashboardBinding
+com/example/AppTest/databinding/FragmentSlideshowBinding.java
+ com.example.AppTest.databinding.FragmentSlideshowBinding
+com/example/AppTest/navActivity.java
+ com.example.AppTest.navActivity
+ com.example.AppTest.navActivity$1
+com/example/AppTest/databinding/CowinDialogBinding.java
+ com.example.AppTest.databinding.CowinDialogBinding
+com/example/AppTest/databinding/NavHeaderMainBinding.java
+ com.example.AppTest.databinding.NavHeaderMainBinding
+com/example/AppTest/databinding/ContentScrollingBinding.java
+ com.example.AppTest.databinding.ContentScrollingBinding

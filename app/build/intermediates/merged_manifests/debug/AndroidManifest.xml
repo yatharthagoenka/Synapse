@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.apptest"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="Synapse"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppTest" >
+        <activity
+            android:name="com.example.AppTest.activities.createNote"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.example.AppTest.activities.notesMain"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.example.AppTest.dashboard" /> <!-- <activity android:name=".cowinInfo" /> -->
+        <activity
+            android:name="com.example.AppTest.cowinActivity"
+            android:label="@string/title_activity_cowin"
+            android:theme="@style/Theme.AppTest.NoActionBar" />
+        <activity
+            android:name="com.example.AppTest.navActivity"
+            android:label="@string/title_activity_nav"
+            android:theme="@style/Theme.AppTest.NoActionBar" />
+        <activity
+            android:name="com.example.AppTest.cfActivity"
+            android:label="@string/title_activity_cf"
+            android:theme="@style/Theme.AppTest.NoActionBar" />
+        <activity android:name="com.example.AppTest.SplashActivity" /> <!-- <activity android:name=".SplashAct"></activity> -->
+        <activity android:name="com.example.AppTest.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

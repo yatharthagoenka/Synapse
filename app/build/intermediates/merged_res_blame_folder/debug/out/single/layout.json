@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\note_container.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\note_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\notes_bsheet.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\notes_bsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cowin.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_cowin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_cf.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\nav_cf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contest_layout.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\contest_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bsheet_layout.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\bsheet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_bsheet.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\fragment_bsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contestlist_items.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\contestlist_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cf_dialog.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\cf_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\problemset_layout.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\problemset_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cf2.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_cf2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_notes_main.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_notes_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cowinlist_items.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\cowinlist_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\note_del.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\note_del.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_cowin.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\fragment_cowin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_main.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\nav_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_cf2.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\fragment_cf2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mail_dialog.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\mail_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_layout.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_scrolling.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_create_note.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_create_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cowin_dialog.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\cowin_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_notes.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\nav_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_cowin.xml",
+        "source": "C:\\Users\\Kinshuk Laptop\\Desktop\\AppTest\\app\\src\\main\\res\\layout\\nav_cowin.xml"
+    }
+]
