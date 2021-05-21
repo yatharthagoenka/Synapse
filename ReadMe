@@ -3,13 +3,12 @@ Download and Install the Synapse.apk file to run the application on your Android
 Download the files and place in a folder named 'AppTest' for correct package referrencing.
 
 Java Resource Files located at app/build/generated/source/buildConfig/debug/com/example/AppTest/
-
-UPDATES: Improved UI for Splash Screen
+XML Layout Files located at app/src/main/res/layout/
 
 
 FUNCTIONALITIES - 
 
-1. Notes (Make and Keep Notes, sorting with colors)  
+1. Notes (Make and Keep Notes, add images and colors)  
 
 1. Co-Win Information
 
