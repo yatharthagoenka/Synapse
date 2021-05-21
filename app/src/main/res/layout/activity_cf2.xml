@@ -10,21 +10,21 @@
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appBarLayout"
         android:layout_width="match_parent"
-        android:backgroundTint="@color/white"
+        android:backgroundTint="#2D2D2D"
         android:layout_height="wrap_content"
         android:theme="@style/Theme.AppTest.AppBarOverlay">
 
         <TextView
             android:id="@+id/title"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="135dp"
             android:layout_marginTop="5dp"
             android:gravity="center"
-            android:padding="10dp"
+            android:padding="20dp"
             android:text="CodeForces"
+            android:textSize="24dp"
             android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
-            android:textColor="@color/black" />
+            android:textColor="@color/white" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -32,6 +32,7 @@
         android:id="@+id/view_pager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#2D2D2D"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <com.google.android.material.tabs.TabLayout
@@ -39,7 +40,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="?attr/colorPrimary"
-            android:backgroundTint="@color/white" />
+            app:tabTextColor="@color/white"
+            android:backgroundTint="#2D2D2D" />
     </androidx.viewpager.widget.ViewPager>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton

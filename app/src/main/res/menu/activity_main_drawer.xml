@@ -12,6 +12,11 @@
             android:title="DashBoard" />
         <item android:title="" />
         <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="Notes" />
+        <item android:title="" />
+        <item
             android:id="@+id/nav_home"
             android:icon="@drawable/voice"
             android:title="@string/menu_home" />

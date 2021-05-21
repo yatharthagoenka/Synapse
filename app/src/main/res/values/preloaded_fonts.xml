@@ -3,5 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/bangers</item>
         <item>@font/roboto_medium</item>
+        <item>@font/ubuntu</item>
+        <item>@font/ubuntu_bold</item>
     </array>
 </resources>

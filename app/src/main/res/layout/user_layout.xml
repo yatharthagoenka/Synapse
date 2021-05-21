@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@color/white"
+    android:background="#2D2D2D"
     android:layout_height="match_parent">
 
     <EditText
@@ -14,10 +14,11 @@
         android:layout_marginStart="108dp"
         android:layout_marginTop="28dp"
         android:ems="10"
+        android:backgroundTint="@color/white"
         android:gravity="center"
         android:hint="Username"
         android:inputType="textPersonName"
-        android:textColorHint="#878684"
+        android:textColorHint="#cfcfcf"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -57,7 +58,7 @@
         android:alpha="0"
         android:gravity="left"
         android:hint="rank"
-        android:textColor="#595957"
+        android:textColor="#f2f2f2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -83,7 +84,7 @@
         android:alpha="0"
         android:hint="Rating"
         android:text="Rating"
-        android:textColor="@color/black"
+        android:textColor="#c9c9c9"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -97,7 +98,7 @@
         android:alpha="0"
         android:gravity="center"
         android:hint="________"
-        android:textColor="#595957"
+        android:textColor="#c9c9c9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -110,7 +111,7 @@
         android:alpha="0"
         android:gravity="left"
         android:hint="________"
-        android:textColor="#595957"
+        android:textColor="#f2f2f2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -123,7 +124,7 @@
         android:alpha="0"
         android:hint="Contributions"
         android:text="Contributions"
-        android:textColor="@color/black"
+        android:textColor="#c9c9c9"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -137,6 +138,7 @@
         android:alpha="0"
         android:text="Organisation"
         android:textSize="12dp"
+        android:textColor="#c9c9c9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/username" />
 
@@ -148,6 +150,7 @@
         android:alpha="0"
         android:text="max rating"
         android:textSize="12dp"
+        android:textColor="#c9c9c9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/rating" />
 
@@ -160,6 +163,7 @@
         android:alpha="0"
         android:text="Region"
         android:textSize="12dp"
+        android:textColor="#c9c9c9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/username" />
 

@@ -26,6 +26,7 @@
             android:text="Upcoming Contests"
             android:textSize="23dp"
             android:textStyle="bold"
+            android:textColor="#bdbdbd"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
