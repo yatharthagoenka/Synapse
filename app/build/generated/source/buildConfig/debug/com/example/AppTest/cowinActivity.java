@@ -75,8 +75,8 @@ public class cowinActivity extends AppCompatActivity implements CowinDialog.Dial
                 Log.i("User Info",uinfo);
                 JSONArray arr=new JSONArray(uinfo);
                 Log.i("test1", String.valueOf(arr.length()));
-                data=new String[arr.length()-1][arr.length()-1];
-                for(int i=0;i<arr.length()-1;i++){
+                data=new String[arr.length()][arr.length()];
+                for(int i=0;i<arr.length();i++){
                     JSONObject part=arr.getJSONObject(i);
                     String sess=part.getString("sessions");
                     JSONArray sesarr=new JSONArray(sess);
@@ -109,6 +109,7 @@ public class cowinActivity extends AppCompatActivity implements CowinDialog.Dial
                     item.put( "line5", data[i][4]);
                     listItems.add( item );
                 }
+                Log.i("test case", String.valueOf(listItems.size()));
                 list.setAdapter(adapter);
             }catch (Exception e){
                 e.printStackTrace();
@@ -180,8 +181,8 @@ public class cowinActivity extends AppCompatActivity implements CowinDialog.Dial
 
     @Override
     public void sharetext2(String id,String date) {
-        spin=id;
-        sdate=date;
+        spin=id.trim();
+        sdate=date.trim();
         task.execute(("https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode="+spin+"&date="+sdate));
     }
 }
