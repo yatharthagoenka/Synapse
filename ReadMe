@@ -1,3 +1,7 @@
+#SYNAPSE
+
+##Working Guidelines
+
 Download and Install the Synapse.apk file to run the application on your Android device.
 
 Download the files and place in a folder named 'AppTest' for correct package referrencing.
@@ -6,7 +10,7 @@ Java Resource Files located at app/build/generated/source/buildConfig/debug/com/
 XML Layout Files located at app/src/main/res/layout/
 
 
-FUNCTIONALITIES - 
+##FUNCTIONALITIES - 
 
 1. Notes (Make and Keep Notes, add images and colors)  
 
@@ -23,4 +27,4 @@ FUNCTIONALITIES -
    ...
    
 
-Designed through JAVA.
+###Designed through JAVA.
