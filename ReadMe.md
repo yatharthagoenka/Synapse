@@ -6,7 +6,7 @@
 
 > Download the files and place in a folder named 'AppTest' for correct package referrencing.
 
-> Java Resource Files located at app/build/generated/source/buildConfig/debug/com/example/AppTest/
+> Java Resource Files located [here](https://github.com/yatharthagoenka/Synapse/tree/master/app/build/generated/source/buildConfig/debug/com/example/AppTest/)
 
 > XML Layout Files located at app/src/main/res/layout/
 
